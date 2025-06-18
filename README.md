@@ -38,6 +38,14 @@ Install dependencies:
 
 text
 pip install -r requirements.txt
+or
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.9.0
+tensorflow==2.16.1
+jupyter==1.0.0
+
 Open the desired notebook in Jupyter and run the cells.
 
 Acknowledgements
